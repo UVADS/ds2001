@@ -13,7 +13,7 @@ replace [initials] with your initials
 
 2) Clone the repo to your computer under your repo folder  
 
-3) create a new folder: scripts
+3) Create a new folder: scripts
 
 4) Copy a python script to the scripts folder, and push to GitHub (recall you'll want to do `git add`, `git commit`, `git push`)
 
