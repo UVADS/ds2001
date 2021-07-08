@@ -56,3 +56,6 @@ test_2_rest_of_name
 ...  
 
 3) Note the data accumulates in the object as you run additional tests
+
+**FILE SUBMISSION**
+Your submitted file should include all code, and output showing that all tests ran with OK message.
