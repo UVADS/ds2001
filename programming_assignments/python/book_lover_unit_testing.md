@@ -44,6 +44,15 @@ Test 5 numBooksRead(): add some books to the list, and test `num_books` matches 
 Test 6 favBooks(): add some books with ratings to the list, making sure some of them have rating > 3. Your test should check that the returned books have rating > 3.  
 
 **Hint for writing unit tests:**  
-The code snippet below shows the start of a class for the Test Suite.
+1) The code snippet below shows the start of a class for the Test Suite.
 A book lover called `reader` is created.
 In test_add_book(), notice how the reader is referenced with self.  
+
+2) The `unittests` package will run the tests in alphabetical order, which might come as a surprise, and it can foul up your test results.
+If you insert numbers in your function names, you can get them to run in the order you want (top down):
+
+test_1_rest_of_name  
+test_2_rest_of_name  
+...  
+
+3) Note the data accumulates in the object as you run additional tests
