@@ -12,10 +12,11 @@ replace [initials] with your initials
 - add a License (can select from dropdown, for example the permissive GNU v3)
 
 2) Clone the repo to your computer under your repo folder  
-- create a new folder: scripts
 
-3) Copy a python script to the scripts folder, and push to GitHub (recall you'll want to do `git add`, `git commit`, `git push`)
+3) create a new folder: scripts
 
-4) Make sure the file is showing in GitHub repo
+4) Copy a python script to the scripts folder, and push to GitHub (recall you'll want to do `git add`, `git commit`, `git push`)
 
-5) Add at least one teammate to your repo (under Settings you can add members)
+5) Make sure the file is showing in GitHub repo
+
+6) Add at least one teammate to your repo (under Settings you can add members)
