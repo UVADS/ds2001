@@ -1,5 +1,7 @@
 ###############################################
 # R GETTING STARTED
+# last updated: July 9, 2021
+#
 # following the text "R for Data Science" (R4DS)
 ###############################################
 # install/load packages
@@ -125,3 +127,30 @@ s1 <- seq(-10, 10, 2)
 s1 <- seq(-10, 10, 2
           
 # now fix it!
+
+###############################################
+# Directories, environment
+
+# get the working directory
+getwd()
+
+# set the working directory
+setwd()
+
+# list files in working directory
+list.files(getwd())
+
+# create a few objects to see them in the environment
+xx <- 10
+sin_test <- function(x){print(sin(x))}
+
+# list objects in global environment
+ls()
+
+# check the type of some objects
+class(sin_test)
+
+# remove all objects
+rm(list=ls())
+
+###############################################
