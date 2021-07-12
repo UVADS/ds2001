@@ -42,13 +42,3 @@ Hints:
 1) You might want to call your function in a "for-loop".
 2) qplot() makes a fairly nice plot quickly
 
-amts <- NA         # vector holding amounts
-sq <- seq(0,1,0.1) # sequence of quotas reached
-
-
-for (i in 1:length(sq))
-  amts[i] <- compute_earned(quota, sq[i])
-
-qplot(sq*100,amts,
-      xlab='quota_fraction',
-      ylab='amount_earned')
