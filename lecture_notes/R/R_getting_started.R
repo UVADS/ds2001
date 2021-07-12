@@ -18,6 +18,7 @@ library(tidyverse)
 # build a sequence: from, to, by
 vals <- seq(-pi, pi, 0.1)
 
+
 # show the data type
 class(vals)
 
@@ -48,6 +49,7 @@ summary(mpg)
 # summarize a column
 summary(mpg$cty)
 
+
 ###########################################################
 ##  TRY FOR YOURSELF ##
 # 2) summarize a different column from mpg
@@ -65,6 +67,21 @@ tail(mpg)
 
 # first and last few records stacked
 rbind(head(mpg), tail(mpg))
+
+# df dimensions
+dim(mpg)
+
+# rows
+dim(mpg)[1]
+
+# cols
+dim(mpg)[2]
+
+# rows
+nrow(mpg)
+
+# columns
+ncol(mpg)
 
 # tabulate a categorical variable; gets frequency at each level
 table(mpg$model)
@@ -90,6 +107,8 @@ ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = hwy, color=model))
 ###########################################################
 ##  TRY FOR YOURSELF ##
 # 5) Rebuild the plot using y = cty
+ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = cty, color=model))
+
 
 ###############################################
 # Ch2: Workflow Basics
@@ -126,7 +145,7 @@ s1 <- seq(-10, 10, 2)
 # NOTE: all parentheses and quotes need to be paired
 # if not paired, R will show +
 # try running this:
-s1 <- seq(-10, 10, 2
+#s1 <- seq(-10, 10, 2
           
 # now fix it!
 ###############################################
@@ -135,7 +154,7 @@ s1 <- seq(-10, 10, 2
 # use paste0() to concat strings with no spaces in between
 path <- "/data/waves/"
 file <- "waves0.csv"
-(full_path <- paste(path,file))
+(full_path <- paste0(path,file))
 
 # show the datatype
 class(full_path)
@@ -151,7 +170,7 @@ class(full_path)
 getwd()
 
 # set the working directory
-setwd()
+setwd("C:/Users/apt4c/")
 
 # list files in working directory
 list.files(getwd())
