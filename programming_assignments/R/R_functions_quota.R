@@ -28,6 +28,8 @@ Write a function with these specifications:
 - takes input: fraction of quarterly quota reached (0.8 means 80%)
 - outputs the dollar amount earned 
 
+Call this function and print the dollar amount earned.
+
 Hint:
 You will want to understand which brackets apply.
 "if" statements can help compute amounts in each bracket.
