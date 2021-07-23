@@ -2,7 +2,7 @@
 Summer 2021
 
 #### Lecture Times  
-Mon-Fri: 9am – 11:15am ET  
+Tues, Thurs TIME TBD
 
 Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
 
