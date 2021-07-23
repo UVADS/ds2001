@@ -1,7 +1,7 @@
-## Syllabus
-DS 5100 – Programming for Data Science  
-Summer 2021  
-Lecture Times  
+## Syllabus: DS 5100 – Programming for Data Science  
+Summer 2021
+
+#### Lecture Times  
 Mon-Fri: 9am – 11:15am ET  
 
 Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
