@@ -97,17 +97,25 @@ Upon completion of this course, you are expected to be able to:
 
 A weighted-average grade will be calculated as follows:  
 
-| Component 	| Weight	|
+|Component 	| Weight	|
 |---	|:---:|
 |Quizzes	|40%|
 |Homework Assignments	|15%|
 |Semester Project (+ Presentation)	|25%|
 |Participation	|20%|
 
-Your final letter grade will be determined by the following scale:                                                      
+### Grading Scale                                                  
 
-
-
+- [98,100] A+
+- [93,98) A
+- [90,93) A- 
+- [87,90) B+
+- [83,87) B 
+- [80,83) B- 
+- [77,80) C+ 
+- [73,77) C 
+- [70,73) C- 
+- <70 F
 
 ### Class Management
 Email / Communication    
