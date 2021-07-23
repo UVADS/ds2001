@@ -1,7 +1,7 @@
 ## Syllabus: DS 5100 – Programming for Data Science  
-Summer 2021
+#### Fall 2021
 
-#### Lecture Times  
+### Lecture Times  
 Tues, Thurs TIME TBD
 
 Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
@@ -14,12 +14,14 @@ apt4c@virginia.edu
 
 **Teaching Assistants**
 TBD  
-When emailing the professor or TAs: Please remember to include "DS5100" in your email subject line.
-Important Dates
-Date of First Live Session: TBD
-Date of Last Live Session: TBD
-Semester Project Presentation Dates: TBD
-Semester Project Due Date: TBD
+
+When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
+
+#### Important Dates  
+Date of First Live Session: TBD  
+Date of Last Live Session: TBD  
+Semester Project Presentation Dates: TBD  
+Semester Project Due Date: TBD  
 
 
 ### Textbooks 
@@ -29,8 +31,7 @@ Semester Project Due Date: TBD
 https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar
  
 - R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, 
-1st Edition, Wickham and Grolemund. O'Reilly Media/ISBN: 978-1-4919-1039-9 	Free link to book: http://r4ds.had.co.nz 
-It may be useful to have a general-purpose Python programming language reference book in addition to the text above. Seeking online resources (remember to check it is Python 
+1st Edition, Wickham and Grolemund. O'Reilly Media/ISBN: 978-1-4919-1039-9 	Free link to book: http://r4ds.had.co.nz   
 
 ### Course Description
 
@@ -39,65 +40,69 @@ An introduction to essential programming concepts, structures, and techniques. S
 ### Learning Outcomes
 
 Upon completion of this course, you are expected to be able to:
-• Confidently work in an appropriate programming environment (IDE)
-▪ Find and utilize resources including online documentation
-▪ Read code on GitHub
-▪ Clone a repo on GitHub
-▪ R: get started in RStudio and navigate around
-▪ R: save code in an R script
-• Perform simple mathematical calculations (Python and R)
-• Identify and utilize primitive data types and data structures [Built in]
-• Read and Write to and from various data formats
-•  Confidently write and call functions in both Python and R
-• Confidently write a class and call its methods to simulate a scenario
-• Use and implement add-on numerical packages to augment existing data structures
-• Select and apply an appropriate data structure based on the problem requirements
-• Write robust code by implementing the basic principles of program testing and debugging
+- Confidently work in an appropriate programming environment (IDE)
+- Find and utilize resources including online documentation
+- Read code on GitHub
+- Clone a repo on GitHub
+- R: get started in RStudio and navigate around
+- R: save code in an R script
+- Perform simple mathematical calculations (Python and R)
+- Identify and utilize primitive data types and data structures [Built in]
+- Read and write to and from various data formats
+- Confidently write and call functions in both Python and R
+- Confidently write a class and call its methods to simulate a scenario
+- Use and implement add-on numerical packages to augment existing data structures
+- Select and apply an appropriate data structure based on the problem requirements
+- Write robust code by implementing the basic principles of program testing and debugging
 
 ### Topics Covered
-    • Intro to GitHub
-Python Programming
-    • Intro to Spyder
-    • variables and expressions
-    • data types: int, float, bool, string, list, tuple, set, dict, range
-    • operators
-    • input/output
-    • numpy
-    • pandas
-    • control structures
-    • interables and interators
-    • list comprehensions
-    • functions
-    • lambda functions
-    • running scripts at the command line
-    • classes
-    • unit tests, testing, debugging
-    • exception handling
-R Programming
-    • Intro to Rstudio
-    • R: essential built-in functions like head(), tail(), rbind(), table()
-    • R for math fundamentals
-    • Tidyverse verbs: select(), filter(), arrange(), mutate(), summarize()
-    • Tidyverse pipe operator
-    • functions
-    • elementwise operations
- Delivery Mode Expectations
-    • Hybrid web / in-person 2-hour 15 min live sessions meeting M – F (5 days) for 4 weeks
-    • Students complete assigned reading before live sessions
-    • Live sessions will consist of:
-        ◦ instructor giving code demos
-        ◦ students work on small and larger coding assignments, with assistance from instructor/TAs/potentially their peers
-        ◦ the instructor reviews coding solutions with the class
-        ◦ students submit assignments through Collab
-        ◦ participation grade consists of student submitting certain files 
+- Intro to GitHub
+- Python Programming
+    - Intro to Spyder
+    - variables and expressions
+    - data types: int, float, bool, string, list, tuple, set, dict, range
+    - operators
+    - input/output
+    - numpy
+    - pandas
+    - control structures
+    - interables and interators
+    - list comprehensions
+    - functions
+    - lambda functions
+    - running scripts at the command line
+    - classes
+    - unit tests, testing, debugging
+    - exception handling
+- R Programming
+    - Intro to Rstudio
+    - R: essential built-in functions like head(), tail(), rbind(), table()
+    - R for math fundamentals
+    - Tidyverse verbs: select(), filter(), arrange(), mutate(), summarize()
+    - Tidyverse pipe operator
+    - functions
+    - elementwise operations
+ 
+ ### Delivery Mode Expectations
+- In-person Live Sessions
+    - Students complete assigned reading before live sessions
+    - Live Sessions will consist of:
+        - instructor giving code demos
+        - students work on small and larger coding assignments, with assistance from instructor/TAs/potentially their peers
+        - the instructor reviews coding solutions with the class
+        - students submit assignments through Collab
+        - participation grade consists of student submitting certain files 
         
 ### Assessment
 
-A weighted-average grade will be calculated as follows:
-    • Quizzes – 40%
-    • Homework Assignments – 15%
-    • Semester Project (+ Presentation) – 25%
-    • Participation – 20%
+A weighted-average grade will be calculated as follows:  
+
+| Component 	| Weight	|
+|---	|:---:|
+|Quizzes	|40%|
+|Homework Assignments	|15%|
+|Semester Project (+ Presentation)	|25%|
+|Participation	|20%|
 
 Your final letter grade will be determined by the following scale:                                                      
 
@@ -106,37 +111,35 @@ Your final letter grade will be determined by the following scale:
 
 ### Class Management
 Email / Communication    
-• Email is the best way to get in touch with the instructor
-• Please be sure to include the following in your email subject line: “DS 5100” when sending email to any of the course staff: professor and TAs.
+- Email is the best way to get in touch with the instructor
+- Please be sure to include the following in your email subject line: “DS 5100” when sending email to any of the course staff: professor and TAs.
 
-Office Hours  
-• Please feel free to stop by office hours if you have any issues to discuss. All office hours are open hours. That is, you do not need an appointment to drop in.
-• If you cannot make it to my office hours we can arrange a mutually agreeable appointment time. 
-Homework Assignments
-• There will be several homework assignments given throughout the semester. Specific grading criteria will be provided with each homework assignment. (See Collab for all homework details.)
-• You are encouraged to first try to complete the homework by yourself.  If you work with others, be sure you understand all of the work, and that your final submission is your own work.
-• Unless stated otherwise, please type your homework assignments and submit through Collab in the requested format
-• When submitting homework assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
-• No homework assignments will be dropped.
-• Note about homework assignments:
-   ◦ Check Collab for due dates
-   ◦ Unless arranged ahead of time, no assignments are accepted after the due date
-   ◦ No homework assignments will be dropped. If this decision has been reevaluated, you will receive notification by the end of the semester
-Participation  
-    • Submitted files are graded based on participation, (do the best that you can!). This means you earn full credit for submitting the file through Collab.
+**Office Hours**
+- Please feel free to stop by office hours if you have any issues to discuss. All office hours are open hours. That is, you do not need an appointment to drop in.
+- If you cannot make it to my office hours we can arrange a mutually agreeable appointment time. 
 
-#### Quizzes
-    • There will be several quizzes throughout the semester that will assess your knowledge of the various topics
-    • Quizzes are based on the Jupter Notebooks and R code files
-    • All quizzes are mandatory for all students to take
-    • The quizzes should be done “closed book:” please refrain from consulting any resources including notes, books, the web, devices, or other external media 
-    • If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+**Homework Assignments**
+- There will be several homework assignments given throughout the semester. Specific grading criteria will be provided with each homework assignment. (See Collab for all homework details.)
+- You are encouraged to first try to complete the homework by yourself.  If you work with others, be sure you understand all of the work, and that your final submission is your own work.
+- Unless stated otherwise, please type your homework assignments and submit through Collab in the requested format
+- When submitting homework assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
+- No homework assignments will be dropped.
+- Note about homework assignments:
+   - Check Collab for due dates
+   - Unless arranged ahead of time, no assignments are accepted after the due date
 
-#### Semester Project
-    • Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details. (This date is for *all* students, regardless of project presentation date.)
-    • Project presentations will be in the last few days of the semester. 
+**Quizzes**
+- There will be several quizzes throughout the semester that will assess your knowledge of the various topics
+- Quizzes are based on the Jupter Notebooks and R code files
+- All quizzes are mandatory for all students to take
+- **The quizzes should be done “closed book:”** please refrain from consulting any resources including notes, books, the web, devices, or other external media 
+- If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+
+**Semester Project**
+- Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details. (This date is for *all* students, regardless of project presentation date.)
+- Project presentations will be in the last few days of the semester. 
 Information about the project will be provided on Collab.
-    • If you know in advance that you will be absent for the project presentations, you must make arrangements in advance with the instructor. (At least one week in advance if possible. Or as soon as you are able if an unforeseen event occurs preventing you from presenting your final project.)
+- If you know in advance that you will be absent for the project presentations, you must make arrangements in advance with the instructor. (At least one week in advance if possible. Or as soon as you are able if an unforeseen event occurs preventing you from presenting your final project.)
 
 ### Spirit of the Course  
 Students must attend daily live sessions and complete the final project as a team. For the programming assignments and quizzes, you must submit your own work.
