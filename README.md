@@ -2,7 +2,7 @@
 #### Fall 2021
 
 ### Lecture Times  
-Tues, Thurs TIME TBD
+Tues, Thurs 11am - 12:15pm
 
 Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
 
@@ -26,16 +26,39 @@ Semester Project Due Date: TBD
 
 ### Textbooks 
 
-- Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 
-2nd Edition, McKinney. O’Reilly Media / ISBN: 978-1-4919-5766-0  	Freely available through the library:
-https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar
+- **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython,** 
+2nd Edition, McKinney. O’Reilly Media / ISBN: 978-1-4919-5766-0 	
+Freely available through the library: https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar
  
-- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, 
-1st Edition, Wickham and Grolemund. O'Reilly Media/ISBN: 978-1-4919-1039-9 	Free link to book: http://r4ds.had.co.nz   
+- **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data,** 
+1st Edition, Wickham and Grolemund. O'Reilly Media/ISBN: 978-1-4919-1039-9 	
+Free link to book: http://r4ds.had.co.nz   
 
 ### Course Description
 
 An introduction to essential programming concepts, structures, and techniques. Students will gain confidence in not only reading code, but learning what it means to write good quality code. Additionally, essential and complementary topics are taught, such as testing and debugging, exception handling, and an introduction to visualization. This course is project based, consisting of a semester project and final project presentations.
+
+## Schedule of Topics 
+
+***NOTE: depending on student interest, the syllabus can be adjusted to accommodate additional topics
+
+| Week 	|Topics	|
+|:---:	|---	|
+| Week 1 	| Welcome, GitHub and Onboarding	|
+| Week 2 	| 	Python Introduction: Data Types, Variables and Expressions |
+| Week 3 	| Python Introduction: Operators, Input/Output, Numpy	|
+| Week 4 	| Python Introduction: Pandas 	|
+| Week 5 	| Additional Work with Pandas, GitHub	|
+|  Week 6	| Control Structures and Iterables |
+| Week 7	| Functions, Lambdas, List Comprehensions	|
+| Week 8 | Python and GitHub Strength Training 	|
+| Week 9 | Recursion and Running From the Command Line|
+| Week 10	| Classes |
+| Week 11 	| Unit Testing and Exception Handling	|
+| Week 12 |  R Programming I	|
+| Week 13 	|  R Programming II |
+| Week 14 | Group Project Preparation	|
+| Week 15 | Group Project Presentation	|
 
 ### Learning Outcomes
 
@@ -106,21 +129,24 @@ A weighted-average grade will be calculated as follows:
 
 ### Grading Scale                                                  
 
-[98,100] A+  
-[93,98) A  
-[90,93) A-   
-[87,90) B+  
-[83,87) B   
-[80,83) B-   
-[77,80) C+   
-[73,77) C   
-[70,73) C-   
-<70 F  
+|Range 	| Grade	|
+|---	|:---:|
+|[98,100]	| A+|
+|[93,98)	| A|
+|[90,93)	| A-|
+|[87,90)	| B+|
+|[83,87)	| B|
+|[80,83)	| B-|
+|[77,80)	| C+|
+|[73,77)	| C|
+|[70,73)	| C-|
+|<70	| F|
+ 
 
 ### Class Management
 Email / Communication    
 - Email is the best way to get in touch with the instructor
-- Please be sure to include the following in your email subject line: “DS 5100” when sending email to any of the course staff: professor and TAs.
+- Please be sure to include the following in your email subject line: “DS 2001” when sending email to any of the course staff: professor and TAs.
 
 **Office Hours**
 - Please feel free to stop by office hours if you have any issues to discuss. All office hours are open hours. That is, you do not need an appointment to drop in.
@@ -142,6 +168,9 @@ Email / Communication
 - All quizzes are mandatory for all students to take
 - **The quizzes should be done “closed book:”** please refrain from consulting any resources including notes, books, the web, devices, or other external media 
 - If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+
+**Participation**  
+- Participation grade consists of student completing and submitting certain files 
 
 **Semester Project**
 - Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details. (This date is for *all* students, regardless of project presentation date.)
