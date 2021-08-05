@@ -46,7 +46,7 @@
 - The files can be in Jupyter Notebooks or Python scripts
 
 **SUBMISSION**
-- In one Zip file submit through Collab: (1) written report (2) presentation (3) code files
+- In one Zip file submit through Collab: (1) written report (2) code files
 
 **RUBRIC**  
 Total Points = 100  
@@ -61,8 +61,8 @@ Total Points = 100
 |Paper includes results, clearly shown|10|
 |Code presents/discusses unit tests|10|
 |Code is clear and well-documented|10|
-|Presentation skills and video|20|
+|Presentation skills |20|
 
-where *Presentation skills and video* comprises:  
+where *Presentation skills* comprises:  
 - All group members spoke in the video
 - The presentation was of good quality, clear and easy to understand
