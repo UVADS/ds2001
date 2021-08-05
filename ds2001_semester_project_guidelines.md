@@ -64,5 +64,5 @@ Total Points = 100
 |Presentation skills |20|
 
 where *Presentation skills* comprises:  
-- All group members spoke in the video
+- All group members presented
 - The presentation was of good quality, clear and easy to understand
