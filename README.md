@@ -21,8 +21,8 @@ et7gav@virginia.edu
 When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
 
 #### Important Dates  
-Date of First Live Session: Aug 24  
-Date of Last Live Session: TBD  
+Date of First Live Session: Aug 24, 2021  
+Date of Last Live Session: Dec 2, 2021  
 Semester Project Presentation Dates: TBD  
 Semester Project Due Date: TBD  
 
