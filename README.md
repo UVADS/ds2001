@@ -148,7 +148,7 @@ Email / Communication
 - Please be sure to include the following in your email subject line: “DS 2001” when sending email to any of the course staff: professor and TAs.
 
 **Office Hours**
-- Please feel free to stop by office hours if you have any issues to discuss. All office hours are open hours. That is, you do not need an appointment to drop in.
+- Office hours will be held through Zoom. 
 - If you cannot make it to my office hours we can arrange a mutually agreeable appointment time. 
 
 **Homework Assignments**
@@ -168,14 +168,14 @@ Email / Communication
 - **The quizzes should be done “closed book:”** please refrain from consulting any resources including notes, books, the web, devices, or other external media 
 - If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
 
-**Semester Project**
-- Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details. (This date is for *all* students, regardless of project presentation date.)
-- Project presentations will be in the last few days of the semester. 
-Information about the project will be provided on Collab.
+**Semester Project**  
+- Information about the project is provided on Collab.  
+- Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details.  
+- Project presentations will be during the final meeting of the semester.  
 - If you know in advance that you will be absent for the project presentations, you must make arrangements in advance with the instructor. (At least one week in advance if possible. Or as soon as you are able if an unforeseen event occurs preventing you from presenting your final project.)
 
 ### Spirit of the Course  
-Students must attend daily live sessions and complete the final project as a team. For the programming assignments and quizzes, you must submit your own work.
+Students must attend live sessions and complete the final project as a team. For the programming assignments and quizzes, you must submit your own work.
 
 ### Electronic Submission of Assignments  
 All assignments must be submitted electronically through Collab by the specified due dates and times. It is crucial to complete all assigned work—failure to do so will likely result in failing the class.
