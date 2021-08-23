@@ -23,8 +23,8 @@ When emailing the professor or TAs: Please remember to include "DS2001" in your 
 #### Important Dates  
 Date of First Live Session: Aug 24, 2021  
 Date of Last Live Session: Dec 2, 2021  
-Semester Project Presentation Dates: TBD  
-Semester Project Due Date: TBD  
+Semester Project Presentation Dates: Dec 2, 2021 
+Semester Project Due Date:  Dec 2, 2021 at 11:59 pm (final meeting day)  
 
 
 ### Textbooks 
