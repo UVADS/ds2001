@@ -6,19 +6,22 @@ Tues, Thurs 11am - 12:15pm
 
 Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
 
+### Location: New Cabell Hall 383
+
 ### Contact
 
 **Professor**
 Adam Tashman  
 apt4c@virginia.edu  
 
-**Teaching Assistants**
-TBD  
+**Teaching Assistant**
+Liz Thompson  
+et7gav@virginia.edu  
 
 When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
 
 #### Important Dates  
-Date of First Live Session: TBD  
+Date of First Live Session: Aug 24  
 Date of Last Live Session: TBD  
 Semester Project Presentation Dates: TBD  
 Semester Project Due Date: TBD  
