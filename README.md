@@ -14,7 +14,7 @@ Note: All times mentioned throughout the Collab site and Syllabus are Eastern Ti
 Adam Tashman  
 apt4c@virginia.edu  
 
-**Teaching Assistant**
+**Teaching Assistant**  
 Liz Thompson  
 et7gav@virginia.edu  
 
