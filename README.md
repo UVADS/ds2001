@@ -43,8 +43,6 @@ An introduction to essential programming concepts, structures, and techniques. S
 
 ## Schedule of Topics 
 
-***NOTE: depending on student interest, the syllabus can be adjusted to accommodate additional topics
-
 | Week 	|Topics	|
 |:---:	|---	|
 | Week 1 	| Welcome, GitHub and Onboarding	|
