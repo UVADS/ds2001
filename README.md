@@ -112,7 +112,7 @@ Upon completion of this course, you are expected to be able to:
     - Students complete assigned reading before live sessions
     - Live Sessions will consist of:
         - instructor giving code demos
-        - students work on small and larger coding assignments, with assistance from instructor/TAs/potentially their peers
+        - students work on small and larger coding assignments, with assistance from instructor/TA/potentially their peers
         - the instructor reviews coding solutions with the class
         - students submit assignments through Collab
         
