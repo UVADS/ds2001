@@ -58,9 +58,7 @@ An introduction to essential programming concepts, structures, and techniques. S
 | Week 10	| Classes |
 | Week 11 	| Unit Testing and Exception Handling	|
 | Week 12 |  R Programming I	|
-| Week 13 	|  R Programming II |
-| Week 14 | Group Project Preparation	|
-| Week 15 | Group Project Presentation	|
+| Week 13 	|  R Programming II, Group Project Presentation |
 
 ### Learning Outcomes
 
