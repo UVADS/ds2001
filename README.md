@@ -1,4 +1,5 @@
 ## Syllabus: DS 2001 – Programming for Data Science  
+
 #### Fall 2021
 
 ### Lecture Times  
