@@ -3,7 +3,7 @@
 You will do these things:
 1) Make sure you have git on your machine. You can download it [here](https://git-scm.com/downloads)
 2) Create a GitHub account [here](https://github.com/)
-3) Create your GitHub personal access token. Instructions [here](). This will allow you to authenticate your machine and push updates
+3) Create your GitHub personal access token. Instructions [here](https://github.com/UVADS/ds2001/blob/main/programming_assignments/github/github_create_authentication_token.pptx). This will allow you to authenticate your machine and push updates
 to a repo.
 5) Fork the course repo (click **fork** button at top right of repo page). This will create a separate copy of the repo in your account.
 6) Visit your account and find the copied course repo. Clone the repo to your personal machine.  
