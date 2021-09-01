@@ -13,6 +13,15 @@
     • Once you have stored your data, explore your data to reveal interesting/useful information based on your project scenario.
     • Write at least two unit tests. For example, these might be short tests to show that two different functions work as intended.
 
+#### Some Data Source Suggestions:
+  • [Kaggle](https://www.kaggle.com)  
+  • [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)  
+  • [StatLib Datasets Archive](http://lib.stat.cmu.edu/datasets/)  
+  • [Federal Reserve Economic Data](https://fred.stlouisfed.org/)  
+  • [Datasets for Data Science and Data Mining](https://www.kdnuggets.com/datasets/index.html)  
+  • [Physionet Physiological signals including ECGs](https://physionet.org/)  
+  • [NYC OpenData](https://opendata.cityofnewyork.us/)  
+  
 #### Deliverables:
 **1. WRITTEN REPORT (no more than 10 pages) containing:**  
 - Abstract: Paragraph outline describing your question, what you did, and what you learned  
