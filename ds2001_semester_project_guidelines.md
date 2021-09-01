@@ -16,7 +16,7 @@
 #### Some Data Source Suggestions:
   • [Kaggle](https://www.kaggle.com)  
   • [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)  
-  • [StatLib Datasets Archive](http://lib.stat.cmu.edu/datasets/)  
+  • [Carnegie Mellon StatLib Datasets Archive](http://lib.stat.cmu.edu/datasets/)  
   • [Federal Reserve Economic Data](https://fred.stlouisfed.org/)  
   • [Datasets for Data Science and Data Mining](https://www.kdnuggets.com/datasets/index.html)  
   • [Physionet Physiological signals including ECGs](https://physionet.org/)  
