@@ -45,7 +45,7 @@ Write a python script that contains your code and solutions for each task below.
 
 7a. (1 PT) Build a list from the touchdowns, calling it *td*, and print it.
 
-Parts 7b, 7c can be most easily accomplished with a list comprehension.
+Parts 7b, 7c can be most easily accomplished with a list comprehension, so please apply them for this questions.  
 We will discuss these further later, but for now, please read this brief article about them:
 
 https://www.w3schools.com/python/python_lists_comprehension.asp
