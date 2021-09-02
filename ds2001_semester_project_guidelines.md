@@ -2,15 +2,17 @@
 
 #### Project Specifications:
     • The instructor will place you into a group of 2-3 students
-    • Pick a data set that you and your group find interesting. (Example source: UC Irvine Machine Learning Repository.  
-      Feel free to select your data from any other source as appropriate.)
+    • Pick a data set that you and your group find interesting. (Example sources found below. Feel free to select your data  
+      from any other source as appropriate.)
     • Form a research question
     • Perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary.
     • Save your data in a .csv file (or other format as appropriate for your data set and project scenario).
-    • Read in data to your program from the data file.
-    • (Optional - do as appropriate) Process the data or perform any calculations or statistics on it before storing the data into a data frame (see next step).
-    • Save the data into one or more data frames (or other structures as appropriate)
-    • Once you have stored your data, explore your data to reveal interesting/useful information based on your project scenario.
+    • Explore your data to reveal interesting/useful information based on your project scenario. 
+    • Create at least 2 visualizations that you find interesting/useful.  
+    • Do at least one of the following, depending in your interests and background:
+      - perform a statistical test on the data (e.g., t-test)  
+      - compute meaningful statistical quantities (e.g., means, correlations)  
+      - fit a model to the data (e.g., regression)  
     • Write at least two unit tests. For example, these might be short tests to show that two different functions work as intended.
 
 #### Some Data Source Suggestions:
