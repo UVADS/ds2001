@@ -24,7 +24,7 @@ file_name = 'Coffee_TRAIN.txt'
 full_path = os.path.join(data_path, file_name)
 
 data = np.loadtxt(full_path, delimiter=',')
-``
+```
 
 Q: What happens? Can you get it working?
 
