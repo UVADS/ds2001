@@ -35,7 +35,7 @@ out
 # if value = mean of vector, z-score should be zero
 print(compute_zscore(mean(xx), xx))
 
-# if vector contains identical values, sd is undefined
+# if vector contains identical values, sd is zero, and z-score is undefined.
 print(compute_zscore(x, c(1,1,1,1)))
 
 # if vector contains missing, result will be NA
