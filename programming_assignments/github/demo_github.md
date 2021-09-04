@@ -11,6 +11,8 @@ https://github.com/apache/spark
 4) push the file back to GitHub (git push)
 5) discuss how to get repo updates with git pull
 
+---  
+
 **Details**  
 To accomplish steps 3-5, it's preferable to use the command line.  
 You'll want to open a terminal (in Windows, PowerShell is a good option).  
@@ -33,5 +35,22 @@ To push the file back to GitHub, enter:
 
 `git push`
 
-Note this will push the commit to the repo that you cloned.
+Note this will push the commit to the repo that you cloned.  
+You should be able to now see the commit in the GitHub repo.  
+
+To see a list of remote repos available, you can enter:
+
+`git remote -v`
+
+---    
+
+**`git pull`**
+
+When you want to sync your repo, you will use some form of `git pull` depending on how you wish to sync.
+
+If you forked a repo and then cloned it, `git pull` will pull from the forked repo.
+
+How can you pull from the original repo?
+
+
 
