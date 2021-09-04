@@ -58,7 +58,7 @@ origin  https://github.com/James/spark.git (push)
 
 This is the forked repo. To pull from this repo, enter:  
 
-`> git pull origin master`
+`> git pull origin`
 
 or more simply:
 
