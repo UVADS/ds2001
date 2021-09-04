@@ -88,5 +88,5 @@ upstream        https://github.com/apache/spark.git (push)
 
 2) Assuming the forked repo was not altered, now pull:
 
-`> git pull upstream master`
+`> git pull upstream`
 
