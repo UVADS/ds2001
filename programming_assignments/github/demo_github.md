@@ -86,7 +86,11 @@ origin  https://github.com/James/spark.git (push)
 upstream        https://github.com/apache/spark.git (fetch)  
 upstream        https://github.com/apache/spark.git (push)  
 
-2) Assuming the forked repo was not altered, now pull:
+2) Assuming the forked repo was not altered, now fetch:
 
-`> git pull upstream`
+`> git fetch upstream`
+
+3) Lastly, merge the updates:  
+
+`> git merge upstream/main main`
 
