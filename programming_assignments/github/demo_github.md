@@ -13,8 +13,9 @@ https://github.com/apache/spark
 
 ---  
 
-**Details**  
-To accomplish steps 3-5, it's preferable to use the command line.  
+**Committing Files**  
+
+First, to accomplish steps 3-5, it's preferable to use the command line.  
 You'll want to open a terminal (in Windows, PowerShell is a good option).  
 Let > denote the command prompt in terminal.
 
@@ -38,19 +39,34 @@ To push the file back to GitHub, enter:
 Note this will push the commit to the repo that you cloned.  
 You should be able to now see the commit in the GitHub repo.  
 
-To see a list of remote repos available, you can enter:
-
-`git remote -v`
-
 ---    
 
-**`git pull`**
+**Pulling changes with `git pull`**
 
 When you want to sync your repo, you will use some form of `git pull` depending on how you wish to sync.
 
-If you forked a repo and then cloned it, `git pull` will pull from the forked repo.
+Suppose user **James** forked the spark repo and then cloned it.
 
-How can you pull from the original repo?  
+The remote repos available can be seen with:
+
+`> git remote -v`
+
+This prints:  
+
+origin  https://github.com/James/spark.git (fetch)  
+origin  https://github.com/James/spark.git (push)
+
+This is the forked repo. To pull from this repo, enter:  
+
+`> git pull origin master`
+
+or more simply:
+
+`> git pull`  
+
+Note that `> git push` pushes to the repo listed above.  
+
+**How can you pull from the original repo?**  
 
 1) Add the original repo (the one you forked) as a remote.
 
@@ -60,5 +76,17 @@ Specifically for this example the command is:
 
 `> git remote add upstream https://github.com/apache/spark.git`  
 
+You can check that this upstream repo has been added with:  
 
+`> git remote -v`
+
+This will show:  
+origin  https://github.com/James/spark.git (fetch)  
+origin  https://github.com/James/spark.git (push)  
+upstream        https://github.com/apache/spark.git (fetch)  
+upstream        https://github.com/apache/spark.git (push)  
+
+2) Assuming the forked repo was not altered, now pull:
+
+`> git pull upstream master`
 
