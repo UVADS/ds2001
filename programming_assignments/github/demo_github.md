@@ -50,7 +50,15 @@ When you want to sync your repo, you will use some form of `git pull` depending 
 
 If you forked a repo and then cloned it, `git pull` will pull from the forked repo.
 
-How can you pull from the original repo?
+How can you pull from the original repo?  
+
+1) Add the original repo (the one you forked) as a remote.
+
+`> git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`  
+
+Specifically for this example the command is:  
+
+`> git remote add upstream https://github.com/apache/spark.git`  
 
 
 
