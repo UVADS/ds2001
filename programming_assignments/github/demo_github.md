@@ -68,6 +68,16 @@ Note that `> git push` pushes to the repo listed above.
 
 **How can you pull from the original repo?**  
 
+First we briefly list all steps, and then explain details.  
+
+```
+> git remote add upstream https://github.com/apache/spark.git
+> git fetch upstream
+> git merge upstream/main main
+```
+
+**Details:**  
+
 1) Add the original repo (the one you forked) as a remote.
 
 `> git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`  
@@ -86,7 +96,7 @@ origin  https://github.com/James/spark.git (push)
 upstream        https://github.com/apache/spark.git (fetch)  
 upstream        https://github.com/apache/spark.git (push)  
 
-2) Assuming the forked repo was not altered, now fetch:
+2) Fetch the updates
 
 `> git fetch upstream`
 
@@ -94,3 +104,4 @@ upstream        https://github.com/apache/spark.git (push)
 
 `> git merge upstream/main main`
 
+If the merge fails, you likely altered your repo. Git will give suggestions on how to fix a merge conflict.
