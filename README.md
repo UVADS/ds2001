@@ -155,10 +155,14 @@ Email / Communication
 - You are encouraged to first try to complete the homework by yourself.  If you work with others, be sure you understand all of the work, and that your final submission is your own work.
 - Unless stated otherwise, please type your homework assignments and submit through Collab in the requested format
 - When submitting homework assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
+- In submission file, please include your initials in the filename.
 - No homework assignments will be dropped.
-- Note about homework assignments:
-   - Check Collab for due dates
-   - Unless arranged ahead of time, no assignments are accepted after the due date
+- Check Collab for due dates
+
+**Homework Assignment Lateness Policy**
+- Please submit HW assignments on time  
+- If an issue will prompt late submission, email the TA in advance to explain the situation.   
+- If the HW is submitted late and it is not an excused lateness, 10% of the assignment total points will be deducted per day it is late.  
 
 **Quizzes**
 - There will be several quizzes throughout the semester that will assess your knowledge of the various topics
