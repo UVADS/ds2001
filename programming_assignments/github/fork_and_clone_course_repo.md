@@ -5,7 +5,7 @@ You will do these things:
 If your screen doesn't fill with *git* commands, you don't have *git*.  
 
 You can download it [here](https://git-scm.com/downloads)  
-NOTE: `git` is a tool for version controlling software on a machine, while `GitHub` allows users to share software online.
+NOTE: *git* is a tool for version controlling software on a machine, while *GitHub* allows users to share software online.
 
 2) Create a GitHub account [here](https://github.com/)
 3) Create your GitHub personal access token. This will allow you to authenticate your machine and push updates to a repo.  
