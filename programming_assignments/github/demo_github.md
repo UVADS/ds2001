@@ -1,9 +1,9 @@
 ### Github workflow  
 
 We will spend time in class on the following:  
-- forking a repo (this makes a copy in your GitHub account, which you can modify)  
+1) forking a repo (this makes a copy in your GitHub account, which you can modify)  
 
-1) We will fork the Apache Spark repo, which lives here:  
+We will fork the Apache Spark repo, which lives here:  
 https://github.com/apache/spark
 
 2) cloning the forked repo to local machine (this copies the fork to your local)
@@ -28,7 +28,7 @@ When you are ready to commit your file(s), enter:
 
 `> git commit -m 'a message to describe what you are committing'`
 
-where `-m` denotes a message flag
+where `-m` denotes a message flag; the message must be in single quotes
 
 The committed files will now be tracked by `git`.
 
