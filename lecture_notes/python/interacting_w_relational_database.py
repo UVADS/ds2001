@@ -122,5 +122,5 @@ TRY FOR YOURSELF
 Write a query that returns all rows where chg > -3.
 
 Exit SQLite
-sqlit> .q
+sqlite> .q
 ------------------------------------------------------------------
