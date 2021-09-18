@@ -50,7 +50,7 @@ An introduction to essential programming concepts, structures, and techniques. S
 | Week 2 	| 	Python Introduction: Data Types, Variables and Expressions |
 | Week 3 	| Python Introduction: Operators, Input/Output, Numpy	|
 | Week 4 	| Python Introduction: Pandas 	|
-| Week 5 	| Additional Work with Pandas, GitHub	|
+| Week 5 	| Pandas, SQLite Database	|
 |  Week 6	| Control Structures and Iterables |
 | Week 7	| Functions, Lambdas, List Comprehensions	|
 | Week 8 | Python and GitHub Strength Training 	|
@@ -88,6 +88,7 @@ Upon completion of this course, you are expected to be able to:
     - input/output
     - numpy
     - pandas
+    - sqlite database
     - control structures
     - interables and interators
     - list comprehensions
