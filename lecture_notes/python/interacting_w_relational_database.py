@@ -5,38 +5,79 @@ Created on Sat Sep 18 09:40:48 2021
 @author: apt4c
 """
 
-# First Steps Interacting with a Relational Database
+First Steps with Python to Interact with a Relational Database
 
-# download and install sqlite db
+PURPOSE
+1. Create a lightweight database using SQLite, which is 
+   serverless and open source.
+
+2. Use Python to interface with the database, including:
+    - creating a table
+    - inserting records into the table
+    - querying the data
+-----------------------------------------------------------
+
+Learn about SQLite here:
+https://www.sqlite.org/about.html
+
+
+Download SQLite here:
 https://www.sqlite.org/download.html
-sqlite-dll-win64-x64-3360000.zip
 
-# from terminal cd to sqlite
-C:\Users\apt4c\sqlite>
+   Windows users will install:
+   sqlite-tools-win32-x86-3360000.zip
 
-# create db called stocks
+   Mac users will install:
+   sqlite-tools-osx-x86-3360000.zip
+
+After install, launch terminal (Windows users use CMD)
+From terminal, cd to sqlite
+
+For example on my Windows machine, i put it here:
+C:\Users\apt4c\sqlite
+
+At prompt, create db called stocks
 > sqlite3 stocks.db
 
+You will see something like this:
+SQLite version 3.36.0 2021-06-18 18:36:39
+Enter ".help" for usage hints.
+
+List the databases like this:
+sqlite> .databases
+
+You should see stocks.db listed. For example, I see:
+main: C:\Users\apt4c\sqlite\stocks.db r/w
+
+Next, we will work in Python
+------------------------------------------------------------------
 # python
 import sqlite3
 
+# create some data
 stocks = [
         ('NVDA',219,-3.42),
         ('AAPL',146,-2.73),
         ('GOOG',2829.27,-58.20)]
 
 
-# connect to db           
-conn = sqlite3.connect(r"C:/Users/apt4c/sqlite/stocks.db")
+# connect to db
+
+# update with your path to the database
+path_to_db = "C:/Users/apt4c/sqlite/stocks.db"    
+
+# create db connection
+conn = sqlite3.connect(path_to_db)
 
 # create cursor
 cur = conn.cursor()
 
-# create table
+# create a table in the db called "holdings" and pass a schema
+# end the transaction with a commit
 cur.execute('create table holdings (ticker text, price real, chg real)')
 conn.commit()
 
-# insert data
+# insert multiple records of data with executemany()
 cur.executemany('insert into holdings values (?,?,?)', stocks)
 conn.commit()
 
@@ -58,18 +99,28 @@ data = []
 for row in conn.execute('select ticker, price from holdings where price > 200'):
     data.append(row)
 
-# sqlite commands
+# TRY FOR YOURSELF 
+# Create a dataframe with columns: ticker, price.
+# Load all of the data into the dataframe
 
-# list databases
-sqlite> .databases
-main: C:\Users\apt4c\sqlite\stocks.db r/w
 
-# list tables
+------------------------------------------------------------------
+Lastly, we revisit SQLite
+
+List the tables
 sqlite> .tables
 holdings
 
-# select all data from holdings
+Select all data from holdings. Notice queries end with ;
 sqlite> select * from holdings;
 NVDA|219.0|-3.42
 AAPL|146.0|-2.73
 GOOG|2829.27|-58.2
+
+
+TRY FOR YOURSELF 
+Write a query that returns all rows where chg > -3.
+
+Exit SQLite
+sqlit> .q
+------------------------------------------------------------------
