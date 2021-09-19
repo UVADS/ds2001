@@ -34,6 +34,6 @@ The format needs to be a list of tuples.
 
 9) (1 PT) From SQLite, list the tables. You should see *mytable* listed. Take a screenshot to show the table was created, and include it in your results document.
 
-10) (1 PT) From SQLite, write and execute a query on *mytable*. Include the output in your results document.
+10) (1 PT) From SQLite, write and execute a query on *mytable*. Take a screenshot to include the query and results in your results document.
 
 ---  
