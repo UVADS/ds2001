@@ -41,7 +41,7 @@ There are two options:
 - Use your own machine
 - Use the **CEDS** virtual environment   
   [Access CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)  
-  [Instructions for using CEDS](link)
+  [Instructions for using CEDS](https://github.com/UVADS/ds2001/blob/main/access_CEDS.docx)
 
 
 ### Course Description
