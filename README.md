@@ -168,8 +168,9 @@ Email / Communication
 
 **Homework Assignment Lateness Policy**
 - Please submit HW assignments on time  
-- If an issue will prompt late submission, email the TA in advance to explain the situation.   
-- If the HW is submitted late and it is not an excused lateness, 10% of the assignment total points will be deducted per day it is late.  
+- If an issue will prompt late submission, email the TA in advance to explain the situation    
+- If the HW is submitted late and it is not an excused lateness, 10% of the assignment total points will be deducted per day it is late   
+- After 5 days of unexcused lateness, it will not be accepted
 
 **Quizzes**
 - There will be several quizzes throughout the semester that will assess your knowledge of the various topics
