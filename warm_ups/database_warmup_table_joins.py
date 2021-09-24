@@ -62,11 +62,8 @@ for row in conn.execute('select hq.ticker, hq.location, ceo.ceo_name \
                         on hq.ticker = ceo.ticker'):
     print(row)
     
-# Next, change inner join to left join and notice the result
-for row in conn.execute('select hq.ticker, hq.location, ceo.ceo_name \
-                        from hq left join ceo \
-                        on hq.ticker = ceo.ticker'):
-    print(row)
+# Next, change inner join to left join, run the query, and notice the result
+
 
 # For discussion:
 # 1) notation: table.field; for example hq.ticker
