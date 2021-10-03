@@ -1,0 +1,3 @@
+This file tracks important changes to the repo
+
+10/2/2021 added input_output_v2.ipynb which includes pathing functions
