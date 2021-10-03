@@ -19,3 +19,4 @@ Here is the recommended sequencing for working through the Python lecture notes:
 17) exception_handling.ipynb
 18) unit_test_assertequal.py
 19) unit_test_class_method_addgrade.py
+20) statsmodels.py
