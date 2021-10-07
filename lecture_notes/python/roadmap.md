@@ -20,3 +20,4 @@ Here is the recommended sequencing for working through the Python lecture notes:
 18) unit_test_assertequal.py
 19) unit_test_class_method_addgrade.py
 20) statsmodels.py
+21) visualization.py
