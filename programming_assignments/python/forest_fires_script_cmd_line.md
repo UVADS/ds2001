@@ -27,7 +27,7 @@ Each item is worth 1 PT, for **TOTAL 10 POINTS**:
 - np.unique(month)
 - uniq_mos
 - arr_filt
-- mean_sq_err(FFMC)
+- sum_sq_err(FFMC)
 
 4) Modify the script to take `path_to_data` as a command-line argument (recall this involves importing `sys` and using `sys.argv`)
 
