@@ -17,7 +17,7 @@ Designing and creating a number of unit tests
 |email|The person’s email, serving as a unique identifier (type:string)|
 |fav_genre|The person’s favorite book genre (e.g., mystery, fantasy, or historical fiction).  (type:string)|
 |num_books|Keeps track of the number of books the person has read (type:int)|
-|book_list|a list of tuples, where each tuple consists of the title of the book the person has read, followed by the person’s rating of that book (scale of 0–5, where 0 means the person did not like the book at all, and 5 means the person loved the book.) Example: bookLst = [(“Jane Eyre”, 4), (“The Odyssey”, 3), (“The Divine Comedy”, 5)]
+|book_list|a list of tuples, where each tuple consists of the title of the book the person has read, followed by the person’s rating of that book (scale of 0–5, where 0 means the person did not like the book at all, and 5 means the person loved the book.) Example: book_list = [(“Jane Eyre”, 4), (“The Odyssey”, 3), (“The Divine Comedy”, 5)]
 
 
 **b. FUNCTIONS: (5 points; 1 point per correct function)**  
@@ -47,6 +47,16 @@ Test 6 favBooks(): add some books with ratings to the list, making sure some of 
 1) The code snippet below shows the start of a class for the Test Suite.
 A book lover called `reader` is created.
 In test_add_book(), notice how the reader is referenced with self.  
+
+`
+class BookLoverTestSuite(unittest.TestCase): 
+    
+    # create a book lover
+    reader = BookLover('Steven','smt@gmail.com','drama')
+    
+    def test_add_book(self):        
+        self.reader.addBook('Great Gatsby',5)
+`
 
 2) The `unittests` package will run the tests in alphabetical order, which might come as a surprise, and it can foul up your test results.
 If you insert numbers in your function names, you can get them to run in the order you want (top down):
