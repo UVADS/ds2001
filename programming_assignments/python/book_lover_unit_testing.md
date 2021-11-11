@@ -67,5 +67,12 @@ test_2_rest_of_name
 
 3) Note the data accumulates in the object as you run additional tests
 
+4) To run the tests, put this code at the bottom of your script:
+
+```
+if __name__ == '__main__':
+    unittest.main() 
+```
+
 **FILE SUBMISSION**  
 Your submitted file should include all code, and output showing that all tests ran with OK message.
