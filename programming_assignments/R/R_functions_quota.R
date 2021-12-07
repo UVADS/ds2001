@@ -35,8 +35,8 @@ Task 1 (8 POINTS FOR FUNCTION PRODUCING CORRECT OUTPUT)
 
 Write a function with these specifications:
   
-- takes input: quarterly quota (225000)
-- takes input: fraction of quarterly quota reached (0.8 means 80%)
+- takes input: quarterly quota (set value=225000)
+- takes input: fraction of quarterly quota reached (set value=0.8 meaning 80%)
 - outputs the dollar amount earned 
 
 Call this function and print the dollar amount earned.
