@@ -10,6 +10,8 @@
 
 - *Wait, What? And Life's Other Essential Questions.* Jim Ryan, President of UVA, on asking the right questions.  
 
+- *How to Win Friends & Influence People.* Dale Carnegie. 
+
 **Scalable Systems**  
 
 - *Designing Data Intensive Applications.* Martin Kleppmann.
